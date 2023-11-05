@@ -1,7 +1,7 @@
 ---
 title: Bombcrypto_Bot
 publishDate: 2019-10-02 00:00:00
-img: /assets/bombcrypto.jpg
+img: /Portfolio/assets/bombcrypto.jpg
 img_alt: A bot to win NFT coins.
 description: |
   A bot to win NFT coins.

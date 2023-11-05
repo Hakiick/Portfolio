@@ -1,7 +1,7 @@
 ---
 title: "#WinOneBitcoin"
 publishDate: 2019-12-01 00:00:00
-img: /assets/winonebitcoin.png
+img: /Portfolio/assets/winonebitcoin.png
 img_alt: WinOneBitcoin Event
 description: |
   A bot to win an event which give one bitcoin.

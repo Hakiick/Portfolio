@@ -1,7 +1,7 @@
 ---
 title: SWC_Bot
 publishDate: 2020-03-02 00:00:00
-img: /assets/summonerwc.jpg
+img: /Portfolio/assets/summonerwc.jpg
 img_alt: A simple bot using openCV and AI.
 description: |
   This bot was developed to gain experience in Python Development and AI training.
