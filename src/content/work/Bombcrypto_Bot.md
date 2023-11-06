@@ -10,52 +10,13 @@ tags:
   - OpenCV
 ---
 
-## Overview of the game:
+### Overview of the bot:
 
-In order to explain what the bot does and why it was designed this way, let's start with a
-brief presentation of the game.
-Bombcrypto is a game based on the concept of the Bomberman game, with the big difference that
-Bombcrypto is play-to-earn where the objective is
-to break chests with characters in order to collect BCOIN (in-game cryptocurrency). THE
-NFT (non-fungible token) are its little characters here
-allowing you to make money, they are called non-fungible because each hero is unique,
-distinguishing in particular by different combat characteristics
-and a different identifier. The game is developed on the blockchain. It is an AI integrated into the game which
-plays the games, the Bombcrypto player is content
-to launch the characters to attack the chests, however, access to the game being paid, and the objective
-goal of each player being to make money, it
-was allowed by the developers to play with a bot to avoid inequalities between players
-who have time to launch their characters and those
-having invested in the game and finding themselves at work. Also, the bot obviously allows you to be
-launched during the night, allowing you not to lose any winnings
-potential.
-So, what exactly should the player do each day? The characters have different
-characteristics, so that a character can attack
-chests it must have energy, so if the character has energy it must be sent to attack,
-if it runs out, you have to recharge it and put it
-at rest. For this you must of course first connect to the game, and the subtlety and that it is necessary
-keep the game window active so that the heroes are active, if the game window is in
-suspends and the heroes are “active”, they will not work, and will not recover
-energy, rendering them useless. You cannot put more than 15 characters on your team.
-Several strategies have been studied in order to optimize gains, two of them stand out from the
-others:
-The first is to strategically dispatch characters based on one of their
-attributes, or rarity.
-The second is to send all the heroes
+To understand the functionality and design rationale behind the bot, we need to first provide a brief overview of the game, Bombcrypto. Bombcrypto is a play-to-earn game inspired by the classic Bomberman concept. However, it differentiates itself by introducing a unique twist: players can earn BCOIN, an in-game cryptocurrency, by breaking chests containing characters. These characters are represented as non-fungible tokens (NFTs), each possessing distinct combat characteristics and a unique identifier. The game operates on the blockchain, incorporating an AI that plays the game on behalf of players. This integration of AI becomes essential as Bombcrypto aims to combine both entertainment and profit, enabling players to leverage the unique NFT characters to earn.
+
+Given that access to the game is paid, and the primary goal for players is to maximize their earnings, developers have allowed the use of a bot. This decision is made to maintain fairness and prevent disparities between players who can actively launch their characters and those who have invested in the game but may be occupied elsewhere. Furthermore, the bot offers the convenience of being active even during nighttime hours, ensuring that players do not miss out on potential earnings.
 
 
-## Objective of the project :
+### Gameplay :
 
-The objective of the project is to create an autoclicker bot for an NFT game called BombCrypto.
-Technological choice:
-The project will be coded in Python, for its well-known modules in image detection, here we
-We will mainly use opencv2. The code editor used is Visual Studio Code.
-Provisional schedule:
-Sprint 1: Made a functional bot on my personal machine, without image recognition,
-only using positions given to a click.
-Sprint 2: Make image detection possible
-Sprint 3: Implement the bot in a Windows virtual machine so as not to be bothered by
-actions of it.
-Sprint 4: Configure a Debian Linux virtual machine to make bot usage less
-energy and resource intensive.
-Sprint 5: Make the project adaptable for machines other than mine
+So, what is the daily routine for a Bombcrypto player? The characters in the game have energy levels, and to engage in chest-breaking activities, a character must possess sufficient energy. Players need to manage their characters by sending them to attack when they have energy and recharge or rest them when energy is depleted. To do this, players must log into the game. Importantly, players must keep the game window active, as heroes will only be active and regain energy when the game window remains open. If the game window is suspended, even if heroes are technically "active," they will not work and will not recharge their energy, rendering them ineffective. Each player can have a maximum of 15 characters on their team.
