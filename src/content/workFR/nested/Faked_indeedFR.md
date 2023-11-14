@@ -16,10 +16,10 @@ FakedIndeed est une application web jobboard développée par Maxime SARRAZIN et
 ## Features : 
 
 
-    Inscription/Connexion des utilisateurs : les utilisateurs peuvent s'inscrire en tant que particuliers ou entreprises. La connexion est requise pour accéder à diverses fonctionnalités.
+  Inscription/Connexion des utilisateurs : les utilisateurs peuvent s'inscrire en tant que particuliers ou entreprises. La connexion est requise pour accéder à diverses fonctionnalités.
 
-    Profil individuel : les utilisateurs individuels peuvent compléter leur profil avec des informations personnelles, qui sont automatiquement renseignées lors de leur candidature à un emploi.
+  Profil individuel : les utilisateurs individuels peuvent compléter leur profil avec des informations personnelles, qui sont automatiquement renseignées lors de leur candidature à un emploi.
 
-    Profils d'entreprise : les entreprises peuvent publier des offres d'emploi, consulter les candidats et modifier leurs profils. Les administrateurs peuvent gérer les entreprises et leurs informations.
+  Profils d'entreprise : les entreprises peuvent publier des offres d'emploi, consulter les candidats et modifier leurs profils. Les administrateurs peuvent gérer les entreprises et leurs informations.
 
-    Panneau d'administration : les administrateurs ont accès à un panneau d'administration dans lequel ils peuvent ajouter, modifier et supprimer des entreprises, des profils d'utilisateurs et des offres d'emploi.
+  Panneau d'administration : les administrateurs ont accès à un panneau d'administration dans lequel ils peuvent ajouter, modifier et supprimer des entreprises, des profils d'utilisateurs et des offres d'emploi.
