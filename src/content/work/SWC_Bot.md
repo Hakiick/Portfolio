@@ -1,6 +1,6 @@
 ---
 title: SWC_Bot
-publishDate: 2020-03-02 00:00:00
+publishDate: 2020-01-02 00:00:00
 img: /Portfolio/assets/summonerwc.jpg
 img_alt: A simple bot using openCV and AI.
 description: |

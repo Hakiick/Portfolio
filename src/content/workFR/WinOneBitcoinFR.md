@@ -1,6 +1,6 @@
 ---
 title: "#WinOneBitcoin"
-publishDate: 2019-12-01 00:00:00
+publishDate: 2020-02-01 00:00:00
 img: /Portfolio/assets/winonebitcoin.png
 img_alt: WinOneBitcoin Event
 description: |

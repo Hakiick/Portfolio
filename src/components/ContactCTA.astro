@@ -9,6 +9,10 @@ import Icon from './Icon.astro';
 		Send Me a Message
 		<Icon icon="paper-plane-tilt" size="1.2em" />
 	</CallToAction>
+	<a href="../public/assets/CV.jpg" download="CV_Sarrazin_Maxime.jpg">
+		<button>Download CV</button>
+	  </a>
+	  
 </aside>
 
 <style>
@@ -43,4 +47,17 @@ import Icon from './Icon.astro';
 			text-align: left;
 		}
 	}
+
+	button {
+	display: flex;
+	flex-direction: column;
+	padding: 10px 20px;
+	background-color: purple;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	font-size: 16px;
+	text-decoration: none;
+}
+
 </style>
